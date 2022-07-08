@@ -1,6 +1,6 @@
 ### Fully Responsive Coffee Shop Application Using DOM.
 
-# For Preview [Click Here]()
+# For Preview [Click Here](https://gokul-coffee-shop.netlify.app/)
 
 # For Sample Images:
 
